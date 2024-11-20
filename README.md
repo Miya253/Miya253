@@ -18,7 +18,7 @@ pip install Python-Dum
 ---
 YiYiYi Ha
 ```python
-print You is Mine Now Baby
-print Where are GO
-print WHERE ARE YOU~
+print("You is Mine Now Baby")
+print("Where are GO")
+print("WHERE ARE YOU~")
 ```
