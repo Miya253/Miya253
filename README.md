@@ -22,3 +22,5 @@ print("You is Mine Now Baby")
 print("Where are GO")
 print("WHERE ARE YOU~")
 ```
+## Github status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miya253&layout=compact&show_icons=true&theme=cobalt)](https://github.com/Miya253/github-readme-stats)
